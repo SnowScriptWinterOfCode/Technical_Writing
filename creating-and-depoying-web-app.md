@@ -99,23 +99,23 @@ Before you start, ensure you have the following:
 
 2. **Create an Account:**
    Create an account on Netlify. You can signin using any of the mentioned methods.
-![image](https://github.com/MonalikaPatnaik/Technical_Writing/assets/99353300/3d199ea1-13aa-4fb0-99fb-3b584fb63e1d)
+   <img src="https://github.com/MonalikaPatnaik/Technical_Writing/assets/99353300/3d199ea1-13aa-4fb0-99fb-3b584fb63e1d" style="width: 400px; height: 400px;">
 
 
-4. **Deploy from GitHub:**
+4. **Initiating a New Site on Netlify Dashboard:**
    Next, You will be redirected to the Netlify dashboard. Then, click on "New site from Git".
-   ![image](https://github.com/MonalikaPatnaik/Technical_Writing/assets/99353300/5ee32f37-3bfa-424e-aaaa-5b10491124e2)
+   <img src="https://github.com/MonalikaPatnaik/Technical_Writing/assets/99353300/5ee32f37-3bfa-424e-aaaa-5b10491124e2" style="width: 600px; height: 300px;">
+  
 
-6. **Configure Build Settings:**
-   Then, Choose GitHub
-   ![image](https://github.com/MonalikaPatnaik/Technical_Writing/assets/99353300/975bc0b8-c668-45e8-a343-6a94c3c65330)
-
-8. **Deploy:**
-   Next, choose the repository that you want to deploy and click on the deploy site button.
-   ![image](https://github.com/MonalikaPatnaik/Technical_Writing/assets/99353300/3d5be1b2-5edd-406f-bc5f-7371d4752866)
+6. Then, Choose GitHub.<br>
+   <img src="https://github.com/MonalikaPatnaik/Technical_Writing/assets/99353300/975bc0b8-c668-45e8-a343-6a94c3c65330" style="width: 600px; height: 300px;">
+   
+8. Next, choose the repository that you want to deploy and click on the deploy site button.
+   <img src="https://github.com/MonalikaPatnaik/Technical_Writing/assets/99353300/3d5be1b2-5edd-406f-bc5f-7371d4752866" style="width: 600px; height: 400px;">
+  
 Next, wait for a few seconds and you will see that it shows you a message with the link to your website.
 
 
 ## Conclusion
 
-Congratulations! You've successfully created a simple web application and deployed it to a hosting service. This guide covers the basics, and you can now explore more advanced topics in web development to enhance your skills.
+Congratulations! You've successfully created a simple web application and deployed it to a hosting service.
