@@ -35,6 +35,7 @@ web. So you just require the following:
 and you are good to go.
 
 ## Section 2: Introduction to A-Frame
+
 ![A-frame webpage](image-9.png)
 
 ### 2.1 What is A-Frame?
