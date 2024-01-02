@@ -1,5 +1,5 @@
 # Getting Started with Virtual Reality
-(![person immersed in virtual reality ](vrperson.jpg))
+![person immersed in virtual reality ](vrchild.jpg)
 
 
 ## Introduction
@@ -18,7 +18,7 @@ To understand VR, familiarize yourself with these key components:
 - **Headset:** The device worn on the head to view virtual content.
 - **Controllers:** Input devices for interacting with the virtual environment.
 - **Sensors:** Track the user's movements for a more immersive experience.
-(![virtual relaity equipments](vrequip.jpg))
+![virtual relaity equipments](image-10.png)
 
 
 But it is not necessary that for developing virtual reality environment you compulsorily require the hardware.the main focus of this documentation is WebVr that is virtual reality experience on the web . so you just require following:
@@ -29,7 +29,7 @@ But it is not necessary that for developing virtual reality environment you comp
 and you are good to go.
 
 ## Section 2: Introduction to A-Frame
-(![A-frame webpage](image-9.png))
+![A-frame webpage](image-9.png)
 
 ### 2.1 What is A-Frame?
 
