@@ -22,6 +22,7 @@ To understand VR, familiarize yourself with these key components:
 - **Headset:** The device worn on the head to view virtual content.
 - **Controllers:** Input devices for interacting with the virtual environment.
 - **Sensors:** Track the user's movements for a more immersive experience.
+
 ![virtual reality equipments](image-10.png)
 
 
@@ -108,8 +109,8 @@ Explore A-Frame components to add interactivity to your VR scene. Components ena
 
 To deepen your understanding of A-Frame, explore the official documentation and community resources:
 
-- [A-Frame Documentation](https://aframe.io/docs/1.2.0/introduction/)
-- [A-Frame School](https://aframe.io/aframe-school/)
+- [A-Frame Documentation](https://aframe.io/docs/1.5.0/introduction/)
+- [A-Frame website](https://aframe.io/)
 
 ### 4.2 Continuing Your VR Journey
 
