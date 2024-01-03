@@ -6,11 +6,11 @@
 
 ## Introduction
 
-Welcome to the dynamic and immersive realm of Augmented Reality (AR), where digital and physical worlds seamlessly converge. This comprehensive guide will walk you through the essential steps to initiate your AR journey. To enhance your understanding and ease your transition into AR development, we'll start by introducing A-Frame, a versatile and accessible framework for building AR experiences.
+Welcome to the dynamic and immersive realm of Augmented Reality (AR), where digital and physical worlds seamlessly converge. This crisp document will walk you through the essential steps to initiate your AR journey. To enhance your understanding and ease your transition into AR development, we'll start by introducing A-Frame, a versatile and accessible framework for building AR experiences.
 
 ## Section 1: Understanding Augmented Reality
 
-Augmented Reality is the integration of digital content with the user's real-world environment in real-time. It enhances the physical world by overlaying digital information, creating interactive and engaging user experiences.
+Augmented Reality is nothing but the integration of digital content with the user's real-world environment in real-time. It enhances the physical world by overlaying digital information, creating interactive and engaging user experiences.
 
 ## Section 2 : Markers vs. Markerless Tracking in AR
 
