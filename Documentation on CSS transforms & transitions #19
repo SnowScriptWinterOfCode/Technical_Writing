@@ -1,0 +1,51 @@
+CSS Transforms & Transitions Documentation:
+
+Introduction:
+A popular tool known as CSS (cascading styling sheet), adds style to the website in various properties. Nowadays, transitions and transformation effects on websites are becoming very popular and can easily be obtained using CSS.
+
+CSS transition:
+Overview:
+Transitions enable you to define the transition between two states of an element. It allows developers to manipulate elements on a webpage, enabling smooth animations and visual effects.
+
+CSS transition properties:
+Various properties are used for transition in CSS including-
+(1)transition-property : property you want to transition (font-size, width etc.)
+(2)transition-duration :
+duration of the transition i.e. how many seconds/milliseconds a transition effect takes to complete.
+ex. transition-duration:2s i.e. transition will take 2 seconds to complete that transition applied on the given property.
+(3)transition-timing-function : ease-in / ease-out / linear / steps etc.
+Specifies the speed curve of the transition effect, using this property we can change or control the speed of the transition over duration.
+ex. transition-timing-function :steps(5)
+i.e. in 5 steps, the transition will occur.
+(4)transition-delay : transition will be delayed by this time i.e. you have to wait for this amount of time to transition between the original state and the requested state.
+Transition Shorthand-
+property name | duration | timing-function | delay
+transition: font-size 2s ease-in-out 0.2s;
+
+CSS Transforms:
+Overview:
+CSS Transforms modify the appearance and position of elements in 2D or 3D space, allowing transformations like translation, rotation, scaling, and skewing without changing the layout.
+
+CSS transformation properties:
+CSS uses Various properties to allow you to rotate, scale, move, skew, etc., elements.
+(1)rotate: transforms element by rotating it two-dimensionally.
+(2)translate(): Moves an element horizontally and vertically.
+(3)rotate(): Rotates an element by a specified angle.
+(4)scale(): Changes an element size.
+(5)skew(): Skews an element along the horizontal or vertical axis.
+(6)matrix(): Provides a 2D transformation using a matrix of six values.
+
+Conclusion:
+CSS Transforms and Transitions are valuable tools for creating, engaging, and interactive web experiences. By mastering these features, developers can add visually appealing effects and smooth animations to their web projects.
+
+Benefits:
+The benefits of CSS transition and transformation properties lie in their ability to enhance user experience and visual appeal while adhering to best practices for optimized web development.
+(1)Engaging User Experience: Transitions create smooth animations, improving user interactions and engagement on web pages.
+(2) Visual Appeal: Transformations allow for creative and visually appealing effects, enhancing the aesthetics of web elements.
+(3) Performance Efficiency: Utilizing CSS transitions instead of JavaScript-based animations can lead to better performance and smoother rendering.
+
+Best Practices:
+(1)Performance Optimization: Avoid overuse of complex transformations to prevent performance bottlenecks and maintain smooth user experiences.
+(2) Cross-Browser Compatibility: Check and accommodate vendor prefixes for broader browser support.
+(3) Hardware Acceleration: Utilize hardware acceleration where possible to enhance performance and rendering.
+By leveraging these properties judiciously and following best practices, developers can create engaging and visually striking web interfaces while ensuring optimal performance across various platforms and devices.
