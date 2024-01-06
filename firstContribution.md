@@ -45,4 +45,4 @@ Getting started with your first contribution to an open-source project on GitHub
 ### 15. **Celebrate your contribution:**
    Once your changes are accepted and merged, celebrate your first open-source contribution!
 
-Remember that the contribution process may vary slightly between projects, so always refer to the specific guidelines provided by the project you're contributing to.Although the fundamentals remains the same
+Remember that the contribution process may vary slightly between projects, so always refer to the specific guidelines provided by the project you're contributing to.Although the fundamentals remains the same.
