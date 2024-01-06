@@ -31,7 +31,7 @@ Getting started with your first contribution to an open-source project on GitHub
     Make the necessary changes in your local machine. Follow the project's coding standards and guidelines.
 
 ### 11. **Commit your changes:**
-    Now you have to Commit your changes to your local branch by going to Source Control icon at the sidebar . now type the relevant commit message and click on Commit option.
+    Now you have to Commit your changes to your local branch by going to Source Control icon at the sidebar . now type the relevant commit message and click on Commit option.A dialog box will appear , click on yes . now since you have created a new branch you will get an option saying "Publish Branch".Click on it.
 
 
 ### 12. **Push changes to GitHub:**
