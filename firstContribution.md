@@ -28,22 +28,21 @@ Getting started with your first contribution to an open-source project on GitHub
    Create a new branch for your contribution. firtsly go to main present at the footer of vs code , then in the input click on "create new branch" and then type the name of the new branch and press Enter . This helps keep your changes isolated from the main codebase.
 
 ### 10. **Make changes:**
-    Make the necessary changes in your local machine. Follow the project's coding standards and guidelines.
-
+   Make the necessary changes in your local machine. Follow the project's coding standards and guidelines.
 ### 11. **Commit your changes:**
-    Now you have to Commit your changes to your local branch by going to Source Control icon at the sidebar . now type the relevant commit message and click on Commit option.A dialog box will appear , click on yes . now since you have created a new branch you will get an option saying "Publish Branch".Click on it.
+   Now you have to Commit your changes to your local branch by going to Source Control icon at the sidebar . now type the relevant commit message and click on Commit option.A dialog box will appear , click on yes . now since you have created a new branch you will get an option saying "Publish Branch".Click on it.
 
 
 ### 12. **Push changes to GitHub:**
-    Now after pressing the commit button , click on Sync changes and click on "Ok" in the dialog box.
+   Now after pressing the commit button , click on Sync changes and click on "Ok" in the dialog box.
 
 ### 13. **Create a pull request (PR):**
-    On the GitHub page of your fork, click the "New pull request" button. Compare your branch with the main branch of the original repository. Provide a descriptive title and comment about your changes.
+   On the GitHub page of your fork, click the "New pull request" button. Compare your branch with the main branch of the original repository. Provide a descriptive title and comment about your changes.
 
 ### 14. **Wait for feedback:**
-    The project maintainers or other contributors may review your PR and provide feedback. Be responsive to comments and make necessary changes.
+   The project maintainers or other contributors may review your PR and provide feedback. Be responsive to comments and make necessary changes.
 
 ### 15. **Celebrate your contribution:**
-    Once your changes are accepted and merged, celebrate your first open-source contribution!
+   Once your changes are accepted and merged, celebrate your first open-source contribution!
 
 Remember that the contribution process may vary slightly between projects, so always refer to the specific guidelines provided by the project you're contributing to.Although the fundamentals remains the same
