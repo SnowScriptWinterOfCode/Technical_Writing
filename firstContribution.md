@@ -35,7 +35,7 @@ Getting started with your first contribution to an open-source project on GitHub
 
 
 ### 12. **Push changes to GitHub:**
-    Now after pressing the commit button , click on Sync changes.
+    Now after pressing the commit button , click on Sync changes and click on "Ok" in the dialog box.
 
 ### 13. **Create a pull request (PR):**
     On the GitHub page of your fork, click the "New pull request" button. Compare your branch with the main branch of the original repository. Provide a descriptive title and comment about your changes.
