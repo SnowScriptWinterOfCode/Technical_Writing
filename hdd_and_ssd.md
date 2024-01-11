@@ -15,7 +15,7 @@
 
 - they have Moving parts which lead to vibrations and higher power consumption.
 - they are a Good choice for more GBs of data for a cheaper price.
-- they are Trustworthy.
+- they are Trustworthy and reliable
 - Boot-ups are slow.
 - It is Comparatively heavy.
 - More vulnerable to wear and tear.
@@ -24,7 +24,7 @@
 
 - They don't have moving parts, don't vibrate, and do not have high power consumption
 - They become largely expensive as one goes for a high range of GBs.
-- Gaining popularity recently.
+- They have become famous recently.
 - Renowned for quick bootups; i.e., the rate at which it accesses the data is far more elevated than that of the HDD.
 - The weight of SSD is less.
 - Vulnerable to data leaks.
