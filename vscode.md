@@ -1,8 +1,11 @@
 # Setting Up Visual Studio Code, Extensions, and MinGW
 below is the software installation guide to use vs code as the code editor for the C++ language.
--💠vs code is the code editor where folders and files will be created and we will write the code.
--💠mingw will be used for compiling the written code on vs code
--💠extensions are downloaded to make the process of writing and running cpp programs with ease.
+(a) vs code is the code editor where folders and files will be created and we will write the code.  
+
+(b) mingw will be used for compiling the written code on vs code  
+
+(c) extensions are downloaded to make the process of writing and running cpp programs with ease.  
+
 
 
 ## Step 1: Install Visual Studio Code
