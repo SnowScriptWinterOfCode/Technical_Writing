@@ -6,9 +6,16 @@
 (4) Enabling virtualization gives you access to a more extensive library of apps to use and install on your PC  
 (5) Many apps and software are compatible with virtualization technology.   
 
+# Use case of virtualisation
+
 For example, Bluestacks is an App Player that enables the execution of Android applications on computers running Microsoft Windows or macOS
-- Bluestacks are often used to play mobile games on a computer by running Android on Windows. 
-- This scenario demonstrates the necessity of enabling virtualization for a smoother process.
+
+- Bluestacks is often used to play games which are mobile/android compatible only on a computer. 
+- This is achieved by running android instance on computer.
+- So basically we will be using android on computer ! cool , isin't.
+- But all of this is about the features that bluestacks gives , the question is where virtualisation is in the picture of bluestacks ?
+- The answer lies in the fact that enabling virtualization makes such softwares run faster and without any lag.
+- The virtual copy of the CPU will be utilised by such apps using virtuaisation technology only.
 - While it can run with VT (Virtualization Technology) disabled, it may lag significantly.
 
 ## Enabling Virtualization in Windows
@@ -18,7 +25,6 @@ Follow these steps to enable virtualization:
 1. **Go to BIOS Settings:**
    - Pressing your assigned BIOS hotkey while your computer boots up should retrieve the BIOS setup utility screen you’re looking for.
    - some famous hotkeys are F2 , esc , F12 etc.
-   - 
 
 2. **Navigate to System and Advanced Settings:**
    - Within the BIOS settings, find the section related to advanced settings.
