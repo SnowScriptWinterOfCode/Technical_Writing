@@ -35,4 +35,7 @@ Follow these steps to enable virtualization:
 4. **Toggle Virtualization to Enabled:**
    - Once you've located the virtualization option, toggle it to "Enabled."
 
-These steps ensure the virtualization feature is activated in the computer's hardware, allowing you to make the most of virtualization technology for running multiple operating systems and applications simultaneously.
+## Parting notes
+- These steps ensure the virtualization feature is activated in the computer's hardware, allowing you to make the most of virtualization   technology for running multiple operating systems and applications simultaneously.
+- It is recommended to enable virtualisation for the apps or softwares that requires it.
+- Otherwise for all other tasks where it is not required then enabling it also doesnot add much to the performance of the computer.
