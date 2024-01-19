@@ -4,7 +4,7 @@
 
 ### HTML, CSS, and Basic JavaScript
 - Learn HTML (HyperText Markup Language) for structuring web content.
-- Master CSS (Cascading Style Sheets) for styling and layout.
+- Now practice CSS (Cascading Style Sheets) for styling and layout.
 - Understand the basics of JavaScript for adding interactivity.
 
 ## ⭐Intermediate
@@ -45,7 +45,7 @@
 ### Advanced SEO
 - Explore advanced SEO strategies.
 
-## Resources
+## 📖Resources And Tips
 
 ### (1) Basic Web Development Tools
 - Get acquainted with code editors (e.g., Visual Studio Code,replit etc.).
@@ -59,5 +59,16 @@
 ### (3) Online videos
 - if you are stuck at a particular feature then don't waste more time in reading it's documentation again
   and again , rather go and watch the video and understand from there.
+### (4) Hands-on 
+- web development is all about development. 
+- rather than learning tags of html and blindly memorising css and js , start implementing them .
+- make project and read documentation and again make project, this cycle should continue like this.
+- start loving documentation , it will be useful for you in the long run also.
+### (5) Ignore AI
+- yes it is true that a whole working website can be built with artificial intelligence by just giving one  
+  prompt only.
+- But we should not forget that AI works on the information given to it by human.
+- So human beings are creative and so is you and so ignore ai when you are in the phase of learning web development
+- don't use ai to build for you but only for the learning purposes
 
 
