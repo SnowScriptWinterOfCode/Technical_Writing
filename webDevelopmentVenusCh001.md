@@ -7,10 +7,6 @@
 - Master CSS (Cascading Style Sheets) for styling and layout.
 - Understand the basics of JavaScript for adding interactivity.
 
-### Basic Web Development Tools
-- Get acquainted with code editors (e.g., Visual Studio Code,replit etc.).
-- Learn how to use a browser's developer tools.
-
 ## Intermediate
 
 ### Advanced JavaScript
@@ -62,4 +58,20 @@
 
 ### Advanced SEO
 - Explore advanced SEO strategies.
+
+## Resources
+
+### (1) Basic Web Development Tools
+- Get acquainted with code editors (e.g., Visual Studio Code,replit etc.).
+- Learn how to use a browser's developer tools.
+### (2) MDN documentation
+- refer this documentation 
+- it includes live practice sessions and assessment.
+- it is very comprehensive starting from the skeleton of html to advanced front end concepts.
+- it also offers questions and there solutions in github repositories which in turn will make you
+  exposed to intricacies of git , github and version control.
+### (3) Online videos
+- if you are stuck at a particular feature then don't waste more time in reading it's documentation again
+  and again , rather go and watch the video and understand from there.
+
 
