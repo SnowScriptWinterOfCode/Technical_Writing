@@ -9,40 +9,40 @@
 
 ## ⭐Intermediate
 
-### Advanced JavaScript
+### (1) Advanced JavaScript
 - Dive deeper into JavaScript concepts .
 - Learn about DOM manipulation and event handling.
 
-### Frontend Frameworks
+### (2) Frontend Frameworks
 - Choose a frontend framework (e.g., React, Vue, or Angular) and learn it thoroughly.
 
-### Responsive Frameworks
+### (3) Responsive Frameworks
 - Familiarize yourself with responsive frameworks like Bootstrap.
 
-### Basic SEO Principles
+### (4) Basic SEO Principles
 - Learn the basics of search engine optimization.
 
-### Browser Compatibility
+### (5) Browser Compatibility
 - Understand how to make your websites compatible with different browsers.
 
 ## ⭐Advanced
 
-### Server-Side Programming
+### (1) Server-Side Programming
 - Learn a server-side language (e.g., Node.js, Python, Ruby, PHP).
 - Understand the basics of server-side frameworks (e.g., Express, Django, Ruby on Rails).
 
-### Databases
+### (2) Databases
 - Explore databases (e.g., MySQL, PostgreSQL, MongoDB).
 - Understand how to interact with databases using your chosen server-side language.
 
-### API (Application Programming Interface)
+### (3) API (Application Programming Interface)
 - Learn how to work with and create APIs.
 
-### Authentication, Authorization and Web Security
+### (4) Authentication, Authorization and Web Security
 - Understand user authentication and authorization mechanisms.
 - Explore web security concepts (e.g., HTTPS, secure coding practices).
 
-### Advanced SEO
+### (5) Advanced SEO
 - Explore advanced SEO strategies.
 
 ## 📖Resources And Tips
