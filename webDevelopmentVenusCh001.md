@@ -1,13 +1,13 @@
 # Web Development Roadmap
 
-## Beginner
+## ⭐Beginner
 
 ### HTML, CSS, and Basic JavaScript
 - Learn HTML (HyperText Markup Language) for structuring web content.
 - Master CSS (Cascading Style Sheets) for styling and layout.
 - Understand the basics of JavaScript for adding interactivity.
 
-## Intermediate
+## ⭐Intermediate
 
 ### Advanced JavaScript
 - Dive deeper into JavaScript concepts .
@@ -25,7 +25,7 @@
 ### Browser Compatibility
 - Understand how to make your websites compatible with different browsers.
 
-## Advanced
+## ⭐Advanced
 
 ### Server-Side Programming
 - Learn a server-side language (e.g., Node.js, Python, Ruby, PHP).
@@ -38,23 +38,9 @@
 ### API (Application Programming Interface)
 - Learn how to work with and create APIs.
 
-### Authentication and Authorization
+### Authentication, Authorization and Web Security
 - Understand user authentication and authorization mechanisms.
-
-### Web Security
 - Explore web security concepts (e.g., HTTPS, secure coding practices).
-
-### GraphQL
-- Learn about GraphQL for efficient API querying.
-
-### Testing
-- Familiarize yourself with testing libraries and frameworks (e.g., Jest, Mocha).
-
-### Continuous Integration/Continuous Deployment (CI/CD)
-- Understand CI/CD principles and tools (e.g., Jenkins, Travis CI).
-
-### Web Performance Optimization
-- Learn techniques for optimizing web performance.
 
 ### Advanced SEO
 - Explore advanced SEO strategies.
