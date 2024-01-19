@@ -51,7 +51,7 @@
 - Get acquainted with code editors (e.g., Visual Studio Code,replit etc.).
 - Learn how to use a browser's developer tools.
 ### (2) MDN documentation
-- refer this documentation 
+- refer this  [documentation](https://developer.mozilla.org/en-US/)
 - it includes live practice sessions and assessment.
 - it is very comprehensive starting from the skeleton of html to advanced front end concepts.
 - it also offers questions and there solutions in github repositories which in turn will make you
@@ -64,11 +64,14 @@
 - rather than learning tags of html and blindly memorising css and js , start implementing them .
 - make project and read documentation and again make project, this cycle should continue like this.
 - start loving documentation , it will be useful for you in the long run also.
+- start from basic projects and don't copy paste from chatgpt or other online resources.
+- after the basic project add more advanced features to your project.
 ### (5) Ignore AI
 - yes it is true that a whole working website can be built with artificial intelligence by just giving one  
   prompt only.
 - But we should not forget that AI works on the information given to it by human.
-- So human beings are creative and so is you and so ignore ai when you are in the phase of learning web development
-- don't use ai to build for you but only for the learning purposes
+- So human beings are creative and so are you and so ignore ai when you are in the phase of learning web development
+- don't use ai to build for you .
+- if you want to use ai then use it to learn web deveolpment and not as a copy paste mechanism .
 
 
