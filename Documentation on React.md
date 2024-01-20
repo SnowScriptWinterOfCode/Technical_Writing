@@ -50,7 +50,7 @@ Explore libraries that allow styling components directly within JavaScript files
 
 ## 4. Hooks in React
 
-![img3](image-41.png)
+![img3](image-41.PNG)
 
 ### 4.1 Definition
 Functions that enable functional components to manage state, perform side effects, and reuse component logic. They address challenges in state management and code reuse.
