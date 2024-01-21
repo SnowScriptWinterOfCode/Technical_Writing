@@ -34,12 +34,12 @@ There are many methods for disk partitioning in Windows, but I will be writing a
    
    ![(disk management)Image from microsoft learn](image-34.png)
 
-   4. choose "Shrink" 
+   4. Choose "Shrink" 
    5. In the dialog box, edit the amount of space you want your new drive to occupy after shrink
    6. click on "shrink" option
    7. Now, unallocated space will be created
-   8. right click on the unallocated space
-   9. now click on "Create Simple Volume."
+   8. Right click on the unallocated space
+   9. Now click on "Create Simple Volume."
   10. a wizard will open 
 
   ![wizard](image-37.png)
@@ -51,5 +51,5 @@ There are many methods for disk partitioning in Windows, but I will be writing a
 ## ⭐ Parting Notes
 
 1. Disk partitioning is a powerful tool that offers various benefits but should be approached cautiously. Understanding the advantages, disadvantages, and available methods is essential for effective disk management in the Windows environment.
-<br>  
+ 
 2. Many users have both SSD and HDD drives then an advice from my side is that keep SSD for Local Disk C and make partition from HDD.
