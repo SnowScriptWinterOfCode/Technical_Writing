@@ -14,7 +14,8 @@
 1. arrays can be visualised as a continuos box of containers. these containers can have elements inside them.
 2. these containers are situated side by side i.e we can say that arrays have contiguous memory location.
 3. the elements present in the array are of the same type and that will depend on how we have declared our array.
-4. for example : int arr[10]
+4. for example : int arr[10]  
+
     This means that we have declared an array which has name="arr"
     and size ="10" and the elements stored in the array will be integers only
 
