@@ -27,13 +27,13 @@ this can be visualised as if containers are present along the row and column
 this can be visualised as if containers are present along the length,breadth and height of the array.
 
 ## ⭐ operations in our array
- a. declaring the array  
- b. inserting elements in the array(at first , at last , at random position)  
- c. deleting the elements in the array(at first , at last and at the random position)  
- d. sorting the elements in the array  
- e. performing linear and binary search in the array  
- f. finding palindromes , duplicate number , maximum element , minimum element   
- g. finding prime , composite , even , armstrong etc.  
+ 1. declaring the array  
+ 2. inserting elements in the array(at first , at last , at random position)  
+ 3. deleting the elements in the array(at first , at last and at the random position)  
+ 4. sorting the elements in the array  
+ 5. performing linear and binary search in the array  
+ 6. finding palindromes , duplicate number , maximum element , minimum element   
+ 7. finding prime , composite , even , armstrong etc.  
 
 
  These are the basic programs for making array's fundamentals to be crystal clear for you.
