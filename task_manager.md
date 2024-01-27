@@ -27,7 +27,7 @@ for example :
 in windows we have the news feature , where we can see the latest news.these news gets updated in the background continously , even though a person have not opened the news at all. so such prcoesses can be deleted from the task manager.
 
 2. **performance**
-
+  
 it contains dynamic graphical and static information  about :
 - cpu
 - disk
@@ -37,7 +37,8 @@ it contains dynamic graphical and static information  about :
 
 ![Alt text](image-52.png)
 
-3. **app history**
+3. **app history**  
+
 as the name suggests we get a list of our used applications with the following information also:
 - cpu time
 - network
@@ -45,12 +46,14 @@ as the name suggests we get a list of our used applications with the following i
 
 ![Alt text](image-55.png)
 
-4. **start up apps**
+4. **start up apps**  
+
 it gives the list of apps that automatically starts as the system is turned on.One can enable and disable these start up apps and know there impact also 
 
 ![Alt text](image-53.png)
 
-5. **users,details and services**
+5. **users,details and services**  
+
 this gives information about the  the currently logged on Users and Services of the computer. These can be controlled by an Administrator.
 
 ![Alt text](image-54.png)
