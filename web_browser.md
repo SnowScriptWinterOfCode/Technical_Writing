@@ -1,6 +1,6 @@
-# web browser documentation
+# Web Browser Documentation
 
-## about web browsers
+## ⭐ About Web Browsers
 
 1. A web browser is an application for accessing websites, i.e., fetching content from the World Wide Web and displaying it on a user's device. 
 2. When a user requests a web page by typing the URL, the browser retrieves its files from a web server and then displays the page on the user's screen.
@@ -9,7 +9,7 @@
 
 ![web browser](image-56.png)
 
-## common features of web browsers
+## ⭐ Common Features of Web Browsers
 
 During browsing cookies get stored in the web browsers and this helps in tracking user's activity.
 
@@ -28,15 +28,15 @@ During browsing cookies get stored in the web browsers and this helps in trackin
 
 ![Alt text](image-58.png)
 
-## Market share of different browsers
+## ⭐ Market share of different browsers
 
-1. Google Chrome - 65% global market share on all devices.
-2. Safari -18% global market share on all devices 
-3. Microsoft Edge has the second-highest desktop share.
-4. Mozilla Foundation's Firefox is the fourth most popular desktop browser.
-5. Some alternative browsers have gained prevalence due to their increased customization and privacy.  Examples include Brave, Epic, Maxthon, and Opera.
+1. **Google Chrome** - 65% global market share on all devices.
+2. **Safari** -18% global market share on all devices 
+3. **Microsoft Edge** has the second-highest desktop share.
+4. **Mozilla Foundation's Firefox** is the fourth most popular desktop browser.
+5. Some alternative browsers have gained prevalence due to their increased customization and privacy.  Examples include **Brave, Epic, Maxthon**, and **Opera**.
 
-## parting notes
+## ⭐ parting notes
 
 A web browser is different from a search engine.
 A search engine is a website that provides links to other websites. However, a user must have a web browser installed to connect to a website's server and display its web pages.
